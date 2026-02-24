@@ -25,3 +25,6 @@ logs
 
 # cloudflare
 .wrangler/*
+
+# deploy
+deploy.sh

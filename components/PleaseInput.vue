@@ -99,10 +99,10 @@
 		<v-card
 			class="empty-card"
 			title="请先输入搜索"
-			text="新站上线：面向自媒体/内容创作者的最流行的工具及资源导航站～"
+			text="新站Edit0上线：极致体验的免费AI图像编辑器，支持Nano Banana Pro"
 			min-width="200"
 			variant="outlined"
-			href="https://turbo0.com"
+			href="https://edit0.com"
 			target="_blank"
 		>
 		</v-card>

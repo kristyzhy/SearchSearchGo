@@ -1,5 +1,5 @@
 # 设置基础镜像
-ARG NODE_VERSION=18.14.2
+ARG NODE_VERSION=20.18.2
 FROM node:${NODE_VERSION}-slim as base
 ARG PORT=3000
 ENV NODE_ENV=production
